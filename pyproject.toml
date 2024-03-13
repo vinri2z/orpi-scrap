@@ -1,9 +1,9 @@
 [project]
 name = "orpi-scrap"
 version = "0.1.0"
-description = "Add your description here"
+description = "A scraper to get info about orpi's real estate agencies."
 authors = [
-    { name = "vinri2z", email = "vincent@datamaran.com" }
+    { name = "vinri2z", email = "vincnt.rizz@gmail.com" }
 ]
 dependencies = [
     "beautifulsoup4>=4.12.3",
